@@ -1,18 +1,18 @@
 # Project-Kapu$ta
 
-The Kapu$ta project was to test the app used to track monthly income and expenses divided into specific categories. 
+<li>The Kapu$ta project was to test the app used to track monthly income and expenses divided into specific categories. 
 
 # Our Main Goal
 
-Comprehensive testing of
+<li>Comprehensive testing of
 the “Kapu$ta” application. The goal was to give opinion if the app is ready to be launched in its current state. 
 
 # My Task
 
-As a Script and a tester, I participated in a QA project
+<li>As a Script and a tester, I participated in a QA project
 "Kapu$ta" using agile SCRUM methodology with a weekly
 sprint period. 
-I focused mainly on functional testing of the application,
+<li>I focused mainly on functional testing of the application,
 ensuring the comfortable use for all users
 
 # Presentation Link
