@@ -15,5 +15,6 @@ I focused mainly on functional testing of the application,
 ensuring the comfortable use for all users
 
 
+Presentation: 
 
 
