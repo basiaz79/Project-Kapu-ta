@@ -17,7 +17,9 @@ sprint period.
 I focused mainly on functional testing of the application,
 ensuring the comfortable use for all users
 
-[QA_Masters_Final.pptx](https://github.com/basiaz79/Project-KapuSta/files/14951121/QA_Masters_Final.pptx)
+
+https://docs.google.com/presentation/d/1rtCl5763RXg1zfW-k4Cnb_2lup7242aD/edit?usp=sharing&ouid=102642905155056726664&rtpof=true&sd=true
+
 
 
 
