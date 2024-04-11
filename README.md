@@ -18,7 +18,8 @@ I focused mainly on functional testing of the application,
 ensuring the comfortable use for all users
 
 
-https://docs.google.com/presentation/d/1rtCl5763RXg1zfW-k4Cnb_2lup7242aD/edit?usp=sharing&ouid=102642905155056726664&rtpof=true&sd=true
+{[Presentation](https://docs.google.com/presentation/d/1rtCl5763RXg1zfW-k4Cnb_2lup7242aD/edit?usp=sharing&ouid=102642905155056726664&rtpof=true&sd=true))]
+
 
 
 
