@@ -12,8 +12,27 @@ the “Kapu$ta” application. The goal was to give opinion if the app is ready 
 <li>As a Script and a tester, I participated in a QA project
 "Kapu$ta" using agile SCRUM methodology with a weekly
 sprint period. 
-<li>I focused mainly on functional testing of the application,
-ensuring the comfortable use for all users
+<li>As part of my duties as a Script I was responsible for making a list daily describing various tasks each team member was to be responsible for and overall summary of the day's works. 
+In addition, as a tester, I focused mainly on functional testing of the application, ensuring the comfortable use for all types of users. 
+  
+We have also done daily meetings on google meet, close cooperation and continuous improvement, we were able to effectively deliver and improve the product. This experience allowed me to develop project management skills and gain valuable experience in software testing.
+
+
+
+# <h2>Tools:</h2>
+
+<li>Google Workspace
+<li>TestRail
+<li>Figma
+<li>Slack
+<li>Swagger
+<li>Trello
+<li>Scrum
+<li>WAVE
+<li>DevTools
+<li>Contrast WCAG
+<li>ShareX
+
 
 # <h2>My Projects and Examples of Work</h2>
 
