@@ -11,15 +11,15 @@ the “Kapu$ta” application. The goal was to give opinion if the app is ready 
 
 As a Script and a tester, I participated in a QA project
 "Kapu$ta" using agile SCRUM methodology with a weekly
-sprint period. 
-As part of my duties as a Script I was responsible for making a list daily describing various tasks each team member was to be responsible for and overall summary of the day's works. 
-In addition, as a tester, I focused mainly on functional testing of the application, ensuring the comfortable use for all types of users.  We have conducted functional tests, portability tests on mobile devices, and usability tests for different types of recipients.
-Due to daily meeeings on google meet, we were able to improve the product. This experience allowed me to develop project management skills and gain valuable experience in software testing.
+sprint period.</br> 
+As part of my duties as a Script I was responsible for making a list daily describing various tasks each team member was to be responsible for and overall summary of the day's works.</br> 
+In addition, as a tester, I focused mainly on functional testing of the application, ensuring the comfortable use for all types of users.  We have conducted functional tests, portability tests on mobile devices, and usability tests for different types of recipients.</br>
+Due to daily meeeings on google meet, we were able to improve the product. This experience allowed me to develop project management skills and gain valuable experience in software testing.</br>
 
 
 # <h2>Soft Skills used:</h2>
 
-As a Scriptr, I was responsible for various tasks. Making a list daily describing various tasks each team member was to be responsible for and overall summary of the day's works.</br>
+As a Script, I was responsible for various tasks. Making a list daily describing various tasks each team member was to be responsible for and overall summary of the day's works.</br>
 My position as a script played a crucial role in ensuring the quality and reliability of a software product, and discussing them in project daily team meetings helped ensure that testing efforts align with project goals and priorities.</br>
 Communication was a key part of my role and I used Slack to communicate with team members. </br>
 I have formed various tasks on Trello board and distributed different tasks to team members. The Trello board was helpful in monitoring the testers' work progress and completion time.</br>
