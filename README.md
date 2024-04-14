@@ -47,6 +47,13 @@ My <i><b>empathy</i></b> for others showed respect and willingness to help other
 Presentation Link
 [Presentation](https://docs.google.com/presentation/d/1rtCl5763RXg1zfW-k4Cnb_2lup7242aD/edit?usp=sharing&ouid=102642905155056726664&rtpof=true&sd=true)
 
+<h3></br>Examples of testing team's work</h3>
+
+Team's work
+[team's work](https://drive.google.com/drive/folders/1280fSw778wNEcXyevY4_63G6psE3Q7wy?usp=sharing)
+
+
+
 
 
 
