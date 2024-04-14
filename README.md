@@ -16,13 +16,13 @@ Due to frequent, daily meeetings on google meet where we discussed our progress 
 
 # <h2>Soft Skills used:</h2>
 
-As a Script, I was responsible for various tasks. Making a list daily describing various tasks each team member was to be responsible for and overall summary of the day's works.</br>
-My position as a script played a crucial role in ensuring the quality and reliability of a software product, and discussing them in daily team meetings helped ensure that testing efforts align with project goals and priorities.</br>
-Communication was a key part of my role and I used Slack to communicate with team members.</br>
+As a Script, <i><b>organizational skills</i></b> were helpful, as I was responsible for various tasks. Making a list daily describing various tasks each team member was to be responsible for and overall summary of the day's works.</br>
 I have formed various tasks on Trello board and distributed different tasks to team members. The Trello board was helpful in monitoring the testers' work progress and completion time.</br>
-My empathy for others showed respect and willingness to help other team members complete their tasks when needed.</br>
-Listening skills were important to focus what others were saying and asking questions but also not interrupting when others spoke.</br>
-Time management skills were crucial in successfully managing one's own time and the time of others.</br>
+My position as a script played a crucial role in ensuring the quality and reliability of a software product, and discussing them in daily team meetings helped ensure that testing efforts align with project goals and priorities. Here <i><b>precision and attention to detail</i></b> played a key role in ensuring the accuracy in each task.</br>
+<i><b>Communication</i></b> was a key part of my role and I used Slack to communicate with other team members.</br>
+My <i><b>empathy</i></b> for others showed respect and willingness to help other team members complete their tasks when needed.</br>
+<i><b>Listening skills</i></b> were important to focus what others were saying and asking questions but also not interrupting when others spoke.</br>
+<i><b>Time management skills</i></b> were crucial in successfully managing one's own time and the time of others.</br>
 
 
 # <h2>Tools:</h2>
