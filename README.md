@@ -1,4 +1,4 @@
-# <h2>Project-Kapu$ta</h2>
+# <h2>Project-"Kapu$ta"</h2>
 
 <li>The Kapu$ta project was to test the app used to track monthly income and expenses divided into specific categories. 
 
